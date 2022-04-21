@@ -2547,7 +2547,7 @@ Resume Timeline
 .moveani h1{font-size: 44px; font-weight: bold; width: 100%; position: absolute; top: 0; left: 0;
   line-height: 65px;
 }
-.moveani2{position: absolute; top: 0; left: 0; font-size: 200px; line-height: 150px; z-index: 5;
+.moveani2{position: absolute; top: 0; left: 0; font-size: 290px; line-height: 150px; z-index: 5;
 animation: ani 2.5s linear alternate infinite; 
 font-weight: 100;}
 
